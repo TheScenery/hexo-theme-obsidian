@@ -51,7 +51,7 @@ page_titles:
 
 # Social media links
 socials:
-  github: ""
+  github: "https://github.com/TheScenery"
   twitter: ""
   stackoverflow: ""
 
@@ -95,7 +95,7 @@ autoplay: false
 
 # default mp3 file
 mp3:
-  - statics/chengdu.mp3
+  - statics/guyongzhe.mp3
 
 # ---------------------------------------------------------------
 # Plugins
