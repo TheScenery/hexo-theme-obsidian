@@ -95,7 +95,7 @@ autoplay: false
 
 # default mp3 file
 mp3:
-  - statics/guyongzhe.mp3
+  - statics/NewBoy.mp3
 
 # ---------------------------------------------------------------
 # Plugins
